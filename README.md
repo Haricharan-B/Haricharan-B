@@ -21,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Haricharan-B&icon=2&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/Haricharan-B/Haricharan-B/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/<seu Haricharan-B>/<seu Haricharan-B>/blob/output/github-contribution-grid-snake2.svg)
