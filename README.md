@@ -22,3 +22,7 @@
 [![](https://visitcount.itsvg.in/api?id=Haricharan-B&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/qh21/qh21/output/snake.svg" alt="Snake animation" />
+
