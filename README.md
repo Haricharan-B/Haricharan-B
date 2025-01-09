@@ -19,6 +19,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Haricharan-B.Haricharan-B&left_color=royalblue&right_color=black"  />
+
 
 
