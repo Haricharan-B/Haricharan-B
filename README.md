@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Projects related to software engineering, web design, and UI/UX design.<br>👯 I’m looking to collaborate on Cloud technologies, web development, and UI/UX design projects<br>🤝 I’m looking for help with Optimizing web development workflows and tools.<br>🌱 I’m currently learning Node.js, React.js, Spring Boot<br>💬 Ask me about UI designs, Java and Web Dev projects<br>⚡ Fun fact : I love to watch Movies and Series
 
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hariii_._03) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haricharanbv/) 
 
